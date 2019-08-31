@@ -1,3 +1,6 @@
+# Forum を作る
+■参考
+https://medium.com/@deallen7/how-to-build-a-forum-with-ruby-on-rails-3249870a72d2
 
 ■Sass::SyntaxError
 https://qiita.com/popmac/items/7626152967ef2904145a
