@@ -1,25 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+■Sass::SyntaxError
+https://qiita.com/popmac/items/7626152967ef2904145a
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# forum
+■Heroku にPushでエラー
+https://ja.stackoverflow.com/questions/50141/git-push-heroku-master-%E3%81%A7%E3%82%A8%E3%83%A9%E3%83%BC
